@@ -512,27 +512,27 @@ img {
 }
 
 .skills__html {
-    width: 70%;
+    width: 90%;
 }
 
 .skills__css {
-    width: 50%;
+    width: 70%;
 }
 
 .skills__js {
-    width: 30%
+    width: 50%
 }
 
 .skills__react {
-    width: 5%;
+    width: 50%;
 }
 
 .skills__java {
-    width: 10%;
+    width: 40%;
 }
 
 .skills__node {
-    width: 5%;
+    width: 30%;
 }
 
 .skills__database {
@@ -544,7 +544,7 @@ img {
 }
 
 .skills__figma {
-    width: 5%;
+    width: 75%;
 }
 
 .skills__ai {
@@ -552,7 +552,7 @@ img {
 }
 
 .skills__pts {
-    width: 10%;
+    width: 50%;
 }
 
 .skills__close .skills__list {
